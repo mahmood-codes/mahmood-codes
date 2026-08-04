@@ -68,7 +68,6 @@ fun_fact: I learn Kubernetes by breaking it on purpose, then fixing it.
   </a>
 </p>
 
-> 💡 **Tip:** these pin cards only render correctly for repos that actually exist under your username — double check the repo names above match yours exactly, and swap/remove any that don't.
 
 ---
 

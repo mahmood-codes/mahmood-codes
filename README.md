@@ -22,10 +22,6 @@ philosophy: "Consistency, patience, and depth — the way the best of us learned
 fun_fact: I learn Kubernetes by breaking it on purpose, then fixing it.
 ```
 
-- 🌱 Deep-diving into Kubernetes fundamentals and Terraform, one deliberate breakage at a time
-- 📚 Built and published **[a-to-z-of-networking](https://github.com/mahmood-codes/a-to-z-of-networking)** — my networking notes, compiled into a 200-page PDF and a full learning website with search + progress tracking
-- 🛠️ My playground: WSL2 + Docker Desktop + kind on Windows
-- 💬 Ask me about Linux, Docker, Kubernetes, AWS, or Bash
 - 📫 Reach me at **mahmood.k.acc@gmail.com**
 
 ---
@@ -50,23 +46,11 @@ fun_fact: I learn Kubernetes by breaking it on purpose, then fixing it.
 ---
 
 ### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/mahmood-codes/go-web-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmood-codes&repo=go-web-app&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/mahmood-codes/a-to-z-of-networking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmood-codes&repo=a-to-z-of-networking&theme=dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/mahmood-codes/aws-vprofile-deployment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmood-codes&repo=aws-vprofile-deployment&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/mahmood-codes/notes-app-kubernetes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmood-codes&repo=notes-app-kubernetes&theme=dark&hide_border=true" />
-  </a>
-</p>
+📌 Featured Projects
+Project	Description
+🔗 go-web-app	Go web app — Dockerized, deployed to Kubernetes with CI/CD
+🔗 aws-vprofile-deployment	Multi-tier app deployed on AWS — EC2, ALB, Auto Scaling, S3, Route 53
+🔗 notes-app-kubernetes	Notes app deployed on Kubernetes — Pods, Deployments, Services
 
 
 ---

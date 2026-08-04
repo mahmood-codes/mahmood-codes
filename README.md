@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu Alaikum, I'm Mahmood 👋</h1>
+<h1 align="center"> I'm Mahmood 👋</h1>
 <h3 align="center">DevOps Engineer in the making | Building infra, breaking it on purpose, learning from every crash</h3>
 
 <p align="center">
@@ -46,11 +46,11 @@ fun_fact: I learn Kubernetes by breaking it on purpose, then fixing it.
 ---
 
 ### 📌 Featured Projects
-📌 Featured Projects
+
+
 Project	Description
-🔗 go-web-app	Go web app — Dockerized, deployed to Kubernetes with CI/CD
-🔗 aws-vprofile-deployment	Multi-tier app deployed on AWS — EC2, ALB, Auto Scaling, S3, Route 53
-🔗 notes-app-kubernetes	Notes app deployed on Kubernetes — Pods, Deployments, Services
+🔗 https://github.com/mahmood-codes/go-web-app — Dockerized, deployed to Kubernetes with CI/CD
+
 
 
 ---

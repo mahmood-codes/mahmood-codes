@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer in the making | Building infra, breaking it on purpose, learning from every crash</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=DevOps+Apprentice+%40+Quesitivty;Docker+%7C+Kubernetes+%7C+Terraform+%7C+AWS;CI%2FCD+with+GitHub+Actions;Consistency+over+intensity+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Learning+DevOps+%40+KodeKloud;Docker+%7C+Kubernetes+%7C+Terraform+%7C+AWS;CI%2FCD+with+GitHub+Actions;Consistency+over+intensity+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ```yaml
 name: Mahmood Khan
-role: DevOps Apprentice @ Quesitivty
+role: Aspiring DevOps Engineer — learning @ KodeKloud
 currently_learning: Kubernetes internals, Terraform, cloud-native patterns
 philosophy: "Consistency, patience, and depth — the way the best of us learned anything."
 fun_fact: I learn Kubernetes by breaking it on purpose, then fixing it.
